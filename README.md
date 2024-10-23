@@ -4,7 +4,8 @@ This is a python project for my OC in mathematics from 2023-2024.
 
 It is about the correlation between points on a circle and the amount of figures you can draw from it.
 
-> At least Python 3.9 needs to be installed to run this program
+> [!NOTE]
+> Python 3.9 or higher is required
 
 ## Dependencies
 - matplotlib
@@ -25,4 +26,4 @@ Just run `python main.py` in a console
 ## Issues
 If you encounter any issues, please report them.
 
-&copy; Tijl Schipper - 2004
+&copy; Tijl Schipper - 2024
